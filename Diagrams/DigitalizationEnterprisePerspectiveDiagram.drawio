@@ -1,0 +1,63 @@
+<mxfile host="Electron" modified="2023-09-29T04:36:38.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="1wgv6SqhgcgXtdT1_S07" version="21.5.1" type="device">
+  <diagram name="Page-1" id="wDfdfGx1Qh0IIDmD07ak">
+    <mxGraphModel dx="778" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-2" value="&lt;ul&gt;&lt;li&gt;HR&lt;/li&gt;&lt;li&gt;Finance&lt;/li&gt;&lt;li&gt;IT&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="YlY02G9FxfKztEFpYW7Y-3" target="YlY02G9FxfKztEFpYW7Y-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-3" value="&lt;ul&gt;&lt;li&gt;R&amp;amp;D&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YlY02G9FxfKztEFpYW7Y-4" target="YlY02G9FxfKztEFpYW7Y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-4" value="&lt;ul&gt;&lt;li&gt;Engg. &amp;amp; Operations&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="240" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YlY02G9FxfKztEFpYW7Y-5" target="YlY02G9FxfKztEFpYW7Y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-5" value="&lt;ul&gt;&lt;li&gt;Sales &amp;amp; Market&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-6" value="&lt;ul&gt;&lt;li&gt;Customer Service&lt;/li&gt;&lt;/ul&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YlY02G9FxfKztEFpYW7Y-9" target="YlY02G9FxfKztEFpYW7Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-9" value="&lt;h1&gt;Running the Corporation&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Modernizing the finance function.&lt;/li&gt;&lt;li&gt;Optimizing workforce deployment (HR).&lt;/li&gt;&lt;li&gt;Building a scalable technology backbone (IT).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YlY02G9FxfKztEFpYW7Y-11" target="YlY02G9FxfKztEFpYW7Y-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-11" value="&lt;h1&gt;Servicing&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Managing customer demand.&lt;/li&gt;&lt;li&gt;Optimizing field labor.&lt;/li&gt;&lt;li&gt;Managing parts.&lt;/li&gt;&lt;li&gt;Delivering superior customer expérience.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-12" value="&lt;h1&gt;Selling&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;Enhacing presales and discovery through digital marketing.&lt;/li&gt;&lt;li&gt;Transforming customer experience.&lt;/li&gt;&lt;li&gt;Optimizing pricing.&lt;/li&gt;&lt;li&gt;Enabling IoT at dealers and retailers.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="530" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-13" value="&lt;h1&gt;Making and delivering&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Optimizing procurement.&lt;/li&gt;&lt;li&gt;Enchancing forecasting and demand planning.&lt;/li&gt;&lt;li&gt;Digitizing manufacturing and assembling.&lt;/li&gt;&lt;li&gt;Streamlining distribuition and delivery.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="170" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YlY02G9FxfKztEFpYW7Y-14" value="&lt;h1&gt;Innovating and developing products and services&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Extracting value from connected products.&lt;/li&gt;&lt;li&gt;Creating data-enabled business models.&lt;/li&gt;&lt;li&gt;Optimizing R&amp;amp;D processes.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-70" width="250" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
