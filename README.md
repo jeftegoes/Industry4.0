@@ -16,6 +16,15 @@
     - [1.5.3. Third Industrial Revolution](#153-third-industrial-revolution)
     - [1.5.4. Fourth Industrial Revolution](#154-fourth-industrial-revolution)
 - [2. What are the underlying technologies and use cases](#2-what-are-the-underlying-technologies-and-use-cases)
+  - [2.1. Technologies](#21-technologies)
+    - [2.1.1. Artificial Intelligence and Machine Learning](#211-artificial-intelligence-and-machine-learning)
+    - [2.1.2. Big Data \& Analytics](#212-big-data--analytics)
+    - [2.1.3. IoT](#213-iot)
+    - [2.1.4. Augmented and Virtual Reality](#214-augmented-and-virtual-reality)
+    - [2.1.5. Robotic Process Automation](#215-robotic-process-automation)
+    - [2.1.6. Cloud](#216-cloud)
+    - [2.1.7. Blockchain](#217-blockchain)
+    - [2.1.8. Additive Manufacturing (or 3D Printing)](#218-additive-manufacturing-or-3d-printing)
 - [3. Why is Digital Transformation is relevant](#3-why-is-digital-transformation-is-relevant)
 - [4. How implement a successful Digital Transformation program](#4-how-implement-a-successful-digital-transformation-program)
 
@@ -97,12 +106,75 @@
 
 1. The advancement of these technologies like artificial intelligence, 3D printing, robotics, which gives us newer ways of working and creating benefits and impact for companies.
 2. Ability to add sensors because of the lower cost, which means you can read data from machines, and using that data, you can make the machines talk to each other, or you can act between human and machines because you have a common source of data to measure.
-3. Data analysis.
-4. Data storage.
+3. Data analysis (Computational processing).
+4. Data storage (Cost to store cheaper).
 
 - So because of the advancement of these technologies, because of the decrease in cost of, for example, of sensors for storing the data, the fourth industrial revolution now is really in full flow and set up for a very disruptive change in our times to come.
 
 # 2. What are the underlying technologies and use cases
+
+- **Data is at the core of most of the new disruptive technologies today.**
+
+## 2.1. Technologies
+
+- **Devices**
+  - Industrial Internet of Things.
+  - Drones.
+  - Virtual reality / Augmented reality.
+- **Intelligence**
+  - Big Data Analytics.
+  - Artificial Intelligence & Machine Learning.
+  - Robotic, Process, Automation.
+- **Machines**
+  - Advanced Robots.
+  - Additive manufacturing 3D Printing.
+- **Secure**
+  - Cloud.
+  - Cybersecurity.
+  - Blockchain.
+- **Applications**
+  - Web & mobile app.
+  - Simulation & digital Twins.
+  - Connectivity Solutions (e.g 5G, LPWAN).
+
+### 2.1.1. Artificial Intelligence and Machine Learning
+
+- AI is the simulation of human intelligence processes (e.g., learning, reasoning) by machines, especially computer systems.
+- Growth propelled by advanced in computing power & storage and explosion of data.
+- Edge Computing brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth.
+
+### 2.1.2. Big Data & Analytics
+
+- Data is **everything**.
+
+### 2.1.3. IoT
+
+- IoT offers the ability for physical objects or humans to generate and communicate meaningful data (e.g., about their condition, position) for analysis and subsequent action.
+
+### 2.1.4. Augmented and Virtual Reality
+
+- AR is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information.
+
+### 2.1.5. Robotic Process Automation
+
+- Software based automation tool that automates routine tasks.
+- Robot has a user ID just like an employee and can perform rules-based tasks such as accessing email and systems, performing calculations, creating documents and reports, and checking files.
+
+### 2.1.6. Cloud
+
+- Accessing computing resources —including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet and offering real time interaction.
+- Can be private, public or hybrid.
+
+[Aws Overview](https://github.com/jeftegoes/AwsOverview)
+
+### 2.1.7. Blockchain
+
+- Blockchain is a digital and distributed ledger of transactions, recorded and replicated in real time across a network of computers or nodes.
+- Every transaction must be cryptographically validated via a consensus mechanism executed by the nodes before being permanently added as a new "block" at the end of the "chain".
+
+### 2.1.8. Additive Manufacturing (or 3D Printing)
+
+- Layer by layer deposition of material to make desired object with often complex and intricate design on demand.
 
 # 3. Why is Digital Transformation is relevant
 
