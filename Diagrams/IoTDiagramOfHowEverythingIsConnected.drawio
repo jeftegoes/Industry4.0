@@ -1,0 +1,47 @@
+<mxfile host="Electron" modified="2023-10-30T01:38:19.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="PFcJaASq0oz3MQdYm8k6" version="21.5.1" type="device">
+  <diagram name="Page-1" id="YrNMHlazQP2-Qdp6rgiT">
+    <mxGraphModel dx="2045" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8M2y-cykW6lW3O3pzFbs-6" target="8M2y-cykW6lW3O3pzFbs-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-6" value="&lt;h1&gt;Business activities&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Manufacturing goods.&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Marketing and selling.&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Managing suppliers.&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Managing people.&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Finance and risk.&lt;/li&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Research and development.&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Agribusiness.&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="296.25" width="230" height="177.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8M2y-cykW6lW3O3pzFbs-7" target="8M2y-cykW6lW3O3pzFbs-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-7" value="&lt;h1&gt;Sensors produce data&lt;/h1&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Humidity.&lt;/li&gt;&lt;li&gt;Temperature.&lt;/li&gt;&lt;li&gt;Acceleration.&lt;/li&gt;&lt;li&gt;Ambient light.&lt;/li&gt;&lt;li&gt;Acoustics.&lt;/li&gt;&lt;li&gt;Vibration.&lt;/li&gt;&lt;li&gt;Movement/location.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="298.5" y="277.5" width="230" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8M2y-cykW6lW3O3pzFbs-8" target="8M2y-cykW6lW3O3pzFbs-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-8" value="&lt;h1&gt;Analysis leads to insights&lt;/h1&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Production delays expected.&lt;/li&gt;&lt;li&gt;Maintenance capacity increase needed.&lt;/li&gt;&lt;li&gt;Shipping deadlines will be missed.&lt;/li&gt;&lt;li&gt;Customer has arrived at store/venue.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="277.5" width="230" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8M2y-cykW6lW3O3pzFbs-9" target="8M2y-cykW6lW3O3pzFbs-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-9" value="&lt;h1&gt;Data is analyzed at the edge or in the cloud&lt;/h1&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Big data.&lt;/li&gt;&lt;li&gt;Descriptive analytics.&lt;/li&gt;&lt;li&gt;Predictive analytics.&lt;/li&gt;&lt;li&gt;Cognitive analytics.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="287.5" width="230" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8M2y-cykW6lW3O3pzFbs-10" target="8M2y-cykW6lW3O3pzFbs-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="385" />
+              <mxPoint x="1440" y="240" />
+              <mxPoint x="-30" y="240" />
+              <mxPoint x="-30" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8M2y-cykW6lW3O3pzFbs-10" value="&lt;h1&gt;Business activities&lt;/h1&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Order more parts automatically.&lt;/li&gt;&lt;li&gt;Notify technician of need for physical inspection.&lt;/li&gt;&lt;li&gt;Issue promotion/offer to customer mobile device.&lt;/li&gt;&lt;li&gt;Alert guest that a desired product is in-store and lead them to it via mobile device wayfinding.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="267.5" width="230" height="235" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

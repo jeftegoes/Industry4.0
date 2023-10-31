@@ -149,7 +149,15 @@
 
 ### 2.1.3. IoT
 
-- IoT offers the ability for physical objects or humans to generate and communicate meaningful data (e.g., about their condition, position) for analysis and subsequent action.
+- IoT offers the ability for physical objects or humans to generate and communicate meaningful data (e.g., about their condition, position) for analysis and subsequent action, like:
+
+![IoT - Diagram Of How Everything Is Connected](Images/IoTDiagramOfHowEverythingIsConnected.png)
+
+- **Edge Computing** brings computation and data storage closer to the location where it is needed, to improve response times and save bandwidth.
+
+![Edge Computing](/Images/EdgeComputingDataProcessingAndStorage.png)
+
+[Fonts](SearchSources/IoT/InsideInternetOfThingsDeloitte.pdf)
 
 ### 2.1.4. Augmented and Virtual Reality
 
